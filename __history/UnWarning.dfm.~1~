@@ -1,0 +1,72 @@
+object FormExit: TFormExit
+  Left = 0
+  Top = 0
+  BorderIcons = []
+  BorderStyle = bsSingle
+  ClientHeight = 163
+  ClientWidth = 428
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poMainFormCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblWarning: TLabel
+    Left = 64
+    Top = 8
+    Width = 308
+    Height = 36
+    Caption = #1058#1099' '#1087#1088#1086#1080#1075#1088#1072#1083' '#1074#1089#1077' '#1076#1077#1085#1100#1075#1080'!'
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -29
+    Font.Name = 'Calibri'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+  end
+  object lblWord: TLabel
+    Left = 94
+    Top = 50
+    Width = 242
+    Height = 37
+    Caption = #1057#1099#1075#1088#1072#1077#1084' '#1079#1072#1085#1086#1074#1086'?'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -29
+    Font.Name = 'Trebuchet MS'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+  end
+  object btnYes: TSpeedButton
+    Left = 32
+    Top = 104
+    Width = 73
+    Height = 38
+    Caption = #1044#1072
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    OnClick = btnYesClick
+  end
+  object btnNo: TSpeedButton
+    Left = 289
+    Top = 104
+    Width = 83
+    Height = 38
+    Caption = #1053#1077#1090
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -24
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    OnClick = btnNoClick
+  end
+end

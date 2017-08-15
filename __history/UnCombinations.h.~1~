@@ -1,0 +1,24 @@
+//---------------------------------------------------------------------------
+
+#ifndef UnHelpH
+#define UnHelpH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Vcl.ExtCtrls.hpp>
+#include <Vcl.Imaging.jpeg.hpp>
+//---------------------------------------------------------------------------
+class TFormHelp : public TForm
+{
+__published:	// IDE-managed Components
+	TImage *imgCombinations;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TFormHelp(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TFormHelp *FormHelp;
+//---------------------------------------------------------------------------
+#endif

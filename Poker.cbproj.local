@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.804,=D:\Универ\Курсовые работы\Poker\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,D:\Универ\Курсовые работы\Poker\UnWarning.dfm=D:\Универ\Курсовые работы\Poker\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,=D:\Универ\Курсовые работы\Poker\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,=D:\Универ\Курсовые работы\Poker\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,=D:\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,=D:\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,D:\Документы\Embarcadero\Studio\Projects\UnMain.dfm=D:\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,D:\Документы\Embarcadero\Studio\Projects\UnMain.cpp=D:\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.694,=D:\Универ\Курсовые работы\Poker\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=D:\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,D:\Документы\Embarcadero\Studio\Projects\UnMain.h=D:\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,D:\Универ\Курсовые работы\Poker\Poker.cbproj=D:\Документы\Embarcadero\Studio\Projects\Poker.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.620,=D:\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,D:\Универ\Курсовые работы\Poker\Unit1.cpp=D:\Универ\Курсовые работы\Poker\UnHelp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,D:\Универ\Курсовые работы\Poker\Unit1.cpp=D:\Универ\Курсовые работы\Poker\UnRules.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,D:\Универ\Курсовые работы\Poker\UnCombinations.h=D:\Универ\Курсовые работы\Poker\UnHelp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,D:\Универ\Курсовые работы\Poker\UnCombinations.dfm=D:\Универ\Курсовые работы\Poker\UnHelp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,D:\Универ\Курсовые работы\Poker\UnRaise.h=D:\Универ\Курсовые работы\Poker\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,D:\Универ\Курсовые работы\Poker\UnWarning.cpp=D:\Универ\Курсовые работы\Poker\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,D:\Универ\Курсовые работы\Poker\Unit1.dfm=D:\Универ\Курсовые работы\Poker\UnHelp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,D:\Универ\Курсовые работы\Poker\Unit1.dfm=D:\Универ\Курсовые работы\Poker\UnRules.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,D:\Универ\Курсовые работы\Poker\PokerPCH1.h=D:\Документы\Embarcadero\Studio\Projects\PokerPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,D:\Универ\Курсовые работы\Poker\UnRaise.dfm=D:\Универ\Курсовые работы\Poker\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,D:\Универ\Курсовые работы\Poker\Unit1.h=D:\Универ\Курсовые работы\Poker\UnHelp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,D:\Универ\Курсовые работы\Poker\Unit1.h=D:\Универ\Курсовые работы\Poker\UnRules.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,D:\Документы\Embarcadero\Studio\Projects\PokerPCH1.h=D:\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,D:\Универ\Курсовые работы\Poker\UnRaise.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,D:\Универ\Курсовые работы\Poker\UnRaise.cpp=D:\Универ\Курсовые работы\Poker\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,D:\Универ\Курсовые работы\Poker\UnMain.h=D:\Документы\Embarcadero\Studio\Projects\UnMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,D:\Универ\Курсовые работы\Poker\UnMain.dfm=D:\Документы\Embarcadero\Studio\Projects\UnMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,D:\Универ\Курсовые работы\Poker\UnWarning.h=D:\Универ\Курсовые работы\Poker\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,D:\Документы\Embarcadero\Studio\Projects\Poker.cbproj=D:\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,D:\Универ\Курсовые работы\Poker\UnMain.cpp=D:\Документы\Embarcadero\Studio\Projects\UnMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,D:\Универ\Курсовые работы\Poker\UnCombinations.cpp=D:\Универ\Курсовые работы\Poker\UnHelp.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
